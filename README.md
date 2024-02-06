@@ -1,8 +1,8 @@
 ### Hi there 👋, welcome to my profile!
 
 <!--   GitHub stats graph -->
-### 📈 This is My GitHub Activity Graph:
-![Xintong Li's github activity graph](https://raw.githubusercontent.com/xintongli1/xintongli1/output/github-contribution-grid-snake.svg)
+#### 📈 This is my GitHub Activity Graph:
+![Xintong's snake](https://github.com/xintongli1/xintongli1/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [An image centered by a whale, surrounded by the icons of tech stacks] -->
 
