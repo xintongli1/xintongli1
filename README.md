@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, welcome to my profile!
+
+<!--   GitHub stats graph -->
+### 📈 This is My GitHub Activity Graph:
+![Xintong Li's github activity graph](https://raw.githubusercontent.com/xintongli1/xintongli1/output/github-contribution-grid-snake.svg)
+
+<!-- [An image centered by a whale, surrounded by the icons of tech stacks] -->
+
+<!--   my-ticker -->    
+<!-- [![Typing SVG](https://my-github-readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Xintong+Li;+Welcome+to+My+Profile!)](https://git.io/typing-svg) -->
 
 <!--
 **xintongli1/xintongli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
